@@ -1,2 +1,2 @@
-# lidia-investe
-Dashboard de investimentos Lídia Investe com Supabase.
+# Lídia Investe
+Dashboard de investimentos em Renda Fixa com Supabase.
